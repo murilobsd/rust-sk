@@ -1,5 +1,5 @@
 [package]
-name = "rust_study"
+name = "rust_sk"
 version = "0.1.0"
 authors = ["mbsd <mbsd@m0x.ru>"]
 edition = "2018"
